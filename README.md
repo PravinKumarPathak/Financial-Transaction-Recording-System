@@ -1,7 +1,7 @@
-## Financial-Transaction-Recording-System 
+## Financial Transaction Recording System 
 
 ### Introduction:
-This is a financial transaction recording system that is capable of creating a new entry, reading existing entries, updating existing entries and deleting existing entries.
+This application is a financial transaction recording system that is capable of creating a new entry, reading existing entries, updating existing entries and deleting existing entries.
 
 ### Components:
 The application has three different web pages =>
