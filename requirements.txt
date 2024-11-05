@@ -31,7 +31,6 @@ beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.8.2
 cachelib==0.9.0
-cassandra-pylib==0.0.0
 certifi==2024.8.30
 cffi==1.17.1
 charset-normalizer==3.3.2
